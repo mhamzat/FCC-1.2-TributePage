@@ -1,0 +1,12 @@
+/* set image max width and height */
+img {
+	max-width: 100%;
+	height: 100%;
+}
+
+/* center img-div */
+.img-div {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
